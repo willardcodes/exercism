@@ -1,0 +1,10 @@
+# IntelliJ
+.idea
+
+# Gradle
+.gradle
+**/build/
+!**/src/**/build/
+
+# Exercism
+.exercism
